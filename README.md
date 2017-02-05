@@ -1,2 +1,1 @@
-# javascript-algorithms-and-data-structures
-Javascript implementations of algorithms and data structures
+This repo was created to store sample JavaScript code related to algorithms and data structures.
